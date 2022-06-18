@@ -1,7 +1,7 @@
 package com.yw.git;
 
 /**
- * @author 杨武
+ * @author yw
  * @version 1.0
  */
 public class GitTest {
